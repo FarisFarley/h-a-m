@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "13",
+      "reference": "Muslim 1/209.",
+      "arabic": "أَشْهَدُ أَنْ لا إِلَـهَ إِلاّ اللهُ وَحْدَهُ لا شَريـكَ لَـهُ وَأَشْهَدُأَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُـه",
+      "meaning": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger.",
+      "transliteration": "'Ash-hadu 'an lā 'ilāha 'illallāhu\nwaḥdahu lā sharīka lahu\nwa 'ash-hadu 'anna Muḥammadan `abduhu wa Rasūluhu."
+    }
+    ]
+  }
+}

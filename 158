@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "158",
+      "reference": "Ibn Majah, Abu Dawud 3/211. See also Al Albani, Sahih Ibn Majah 1/251.",
+      "arabic": "اللهُـمِّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّـتِك ، وَحَبْـلِ جِـوارِك ، فَقِـهِ مِنْ فِتْـنَةِ الْقَـبْرِ وَعَذابِ النّـار ، وَأَنْتَ أَهْلُ الْوَفـاءِ وَالْـحَقِّ ، فَاغْفِـرْ لَهُ وَارْحَمْـهُ ، إِنَّكَ أَنْتَ الغَـفورُ الـرَّحيم",
+      "meaning": "O Allah, surely [name the person] is under Your protection, and in the rope of Your security, so save him from the trial of the grave and from the punishment of the Fire. You fulfill promises and grant rights, so forgive him and have mercy on him. Surely You are Most Forgiving, Most Merciful.",
+      "transliteration": "Allāhumma inna [name the person] fī dhimmatik,\nwa ḥabli jiwārik,\nfaqihi min fitnati ‘l-qabri wa `adhābin-nār,\nwa anta ahlu ‘l-wafā'i wa ‘l-ḥaqq.\nFaghfir lahu warḥamh\ninnaka anta ‘l-Ghafūrur-Raḥīm."
+   }
+    ]
+  }
+}

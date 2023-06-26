@@ -1,0 +1,16 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+
+    {
+      "number": "72",
+      "reference": "At-Tirmidhi 5/515, Ahmad 4/227. See its checking in Ibn Al-Qayyim Al-Jawziyyah's Zddul-Ma'ad 1/300.",
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ)",
+      "meaning": "(Recite ten times in Arabic after the Maghrib and Fajr prayers.) None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things.",
+      "transliteration": "Lā ilāha illallāh\nwaḥdahu lā sharīka lah,\nlahu‘l-mulku wa lahu‘l-ḥamd\nyuḥyī wa yumīt\nwa huwa `alā kulli shay'in qadīr."
+   }
+    ]
+  }
+}

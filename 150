@@ -1,0 +1,16 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "150",
+      "reference": "Al-Bukhari7/10, Muslim 4/1893.",
+      "arabic": "أللّهُـمَّ اغْفِـرْ لي وَارْحَمْـني وَأَلْحِقْـني بِالرَّفـيقِ الأّعْلـى",
+      "meaning": "O Allah, forgive me and have mercy upon me, and join me with the highest companions (in Paradise).",
+      "transliteration": "Allāhumma’ghfir lī warḥamnī\nwa alḥiqnī bir-rafīqi ‘l-'A`alā."
+   }
+
+    ]
+  }
+}

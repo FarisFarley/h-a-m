@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+       {
+            "number": "21",
+            "reference": "ibid.",
+            "arabic": "بِسمِ الله وَالصّلاةُ وَالسّلامُ عَلى رَسولِ الله، اللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك، اللّهُـمَّ اعصِمْنـي مِنَ الشَّيْـطانِ الرَّجـيم",
+            "meaning": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah. O Allah, I ask for Your favor, O Allah, protect me from Satan the outcast.",
+            "transliteration": "Bismillāhi waṣṣalātu wassalāmu 'alā Rasūlillāhi,\nAllāhumma 'innī 'as'aluka min faḍlika,\nAllāhumma`ṣimnī min ash-shaytānir-rajīm."
+         }
+    ]
+  }
+}

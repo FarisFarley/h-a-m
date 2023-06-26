@@ -1,0 +1,16 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "233",
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 3/408, Muslim 2/841.",
+      "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَة لَكَ والمُلْكُ، لَا شَرِيكَ لَكَ",
+      "meaning": "I am here at Your service, O Allah, I am here at Your service. I am here at Your service, You have no partner, I am here at Your service. Surely the praise, and blessings are Yours, and the dominion. You have no partner.",
+      "transliteration": "Labbayk-Allāhumma labbayk,\nlabbayka lā sharīka laka labbayk,\ninna ‘l-ḥamda, wanni`mata, laka wa ‘l-mulk,\nlā sharīka lak."
+   }
+
+    ]
+  }
+}

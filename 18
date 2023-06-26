@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "18",
+      "reference": "Abu Dawud 4/325. Muslim {Hadith no. 2018) says that one should mention the Name of Allah when entering the home and when beginning to eat; and that the devil, hearing this, says: \"There is no shelter for us here tonight and no food.\"",
+      "arabic": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـن (ثم ليسلم على أهله.)",
+      "meaning": "In the Name of Allah we enter , in the Name of Allah we leave , and upon our Lord we depend [then say As-Salāmu `Alaykum to those present].",
+      "transliteration": "Bismillāhi walajnā,\nwa bismillāhi kharajnā,\nwa `ala Rabbinā tawakkalnā"
+    }
+    ]
+  }
+}

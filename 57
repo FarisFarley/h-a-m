@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "57",
+      "reference": "Al-Bukhari 8/168, Muslim 4/2078.",
+      "arabic": "اللّهُـمَّ إِنِّـي ظَلَـمْتُ نَفْسـي ظُلْمـاً كَثـيراً وَلا يَغْـفِرُ الذُّنـوبَ إِلاّ أَنْت، فَاغْـفِر لي مَغْـفِرَةً مِنْ عِنْـدِك وَارْحَمْـني، إِنَّكَ أَنْتَ الغَـفورُ الرَّحـيم",
+      "meaning": "O Allah, I have greatly wronged myself, and no one forgives sins but You. So, grant me forgiveness and have mercy on me. Surely, you are Forgiving, Merciful.",
+      "transliteration": "Allāhumma ‘innī ẓalamtu nafsī ẓulman kathīran,\nwa lā yaghfiru-dhdhunūba illā 'anta,\nfaghfir lī maghfiratam’min `indika warḥamnī\ninnaka 'anta ‘l-Ghafūr ur-Rahīm."
+   }
+    ]
+  }
+}

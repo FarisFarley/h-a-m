@@ -1,0 +1,16 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "235",
+      "reference": "Abu Dawud 2/179, Ahmad 3/411, Al-Baghawi, Sharhus-Sunnah 7/128. Al-Albani graded it good in Sahih Abu Dawud 1/354. The Ayat is from Surat Al-Baqarah, 2:201.",
+      "arabic": "﴿رَبَّنَا آتِنَا في الدُّنْيَا حسَنَةً وفي الآخِرَةِ حسَنةً وقِنَا عذَابَ النَّارِ﴾",
+      "meaning": "Our Lord, grant us the good things in this world, and the good things in the next life, and save us from the punishment of the Fire.",
+      "transliteration": "Rabbanā ātinā fid-dunyā ḥasanah\nwa fi ‘l-ākhirati ḥasanah\nwa qinā `adhāban-nār."
+   }
+
+    ]
+  }
+}

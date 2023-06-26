@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "data": [
+ {
+      "number": "174",
+      "reference": "Al-Bukhari 1/224, Muslim 1/614",
+      "arabic": "اللّهُمَّ حَوالَيْنا وَلا عَلَيْـنا، اللّهُمَّ عَلى الآكـامِ وَالظِّـراب، وَبُطـونِ الأوْدِية، وَمَنـابِتِ الشَّجـر",
+      "meaning": "O Allah, let the rain fall around us and not upon us, O Allah, (let it fall) on the pastures, hills, valleys, and the roots of trees.",
+      "transliteration": "Allāhumma ḥawālaynā wa lā `alaynā.\nAllāhumma `ala ‘l-ākāmi waẓ-ẓirāb,\nwa buṭūni ‘l-awdiyati, wa manābitish-shajar."
+   }
+    ]
+  }
+}
