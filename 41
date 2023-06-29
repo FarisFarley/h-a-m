@@ -2,6 +2,7 @@
   "status": "Success",
   "details": {
     "name": "Hisn al-Muslim",
+    "chapter": "While prostrating",
     "data": [
  {
       "number": "41",
@@ -9,7 +10,50 @@
       "arabic": "سُبْـحانَ رَبِّـيَ الأَعْلـى. (ثلاث مرات)",
       "meaning": "Glory is to my Lord, the Most High. (This is said three times in Arabic.)",
       "transliteration": "Subḥāna Rabbiya ‘l-a`lā."
-   }
+   },
+   {
+         "number": "42",
+         "reference": "Al-Bukhari and Muslim, see invocation no. 34 above.",
+         "arabic": "سُبْـحانَكَ اللّهُـمَّ رَبَّـنا وَبِحَـمْدِكَ ، اللّهُـمَّ اغْفِرْ لي",
+         "meaning": "Glory is to You, O Allah, our Lord, and praise is Yours. O Allah, forgive me.",
+         "transliteration": "Subḥānaka Allāhumma Rabbanā wa biḥamdika\nAllāhumma ‘ghfir lī."
+      },
+      {
+            "number": "43",
+            "reference": "Muslim 1/533, see invocation no. 35 above.",
+            "arabic": "سُبـّوحٌ قُـدّوس، رَبُّ الملائِكَـةِ وَالـرُّوح",
+            "meaning": "Glory (to You), Most Holy (are You), Lord of the angels and the Spirit.",
+            "transliteration": "Subbūḥun, Quddūsun, Rabbu ‘l-malā'ikati warrūḥ."
+         },
+         {
+               "number": "44",
+               "reference": "Muslim 1/534 and others.",
+               "arabic": "اللّهُـمَّ لَكَ سَـجَدْتُ وَبِـكَ آمَنْـت ، وَلَكَ أَسْلَـمْت ، سَجَـدَ وَجْهـي للَّـذي خَلَقَـهُ وَصَـوَّرَهُ وَشَقَّ سَمْـعَـهُ وَبَصَـرَه ، تَبـارَكَ اللهُ أَحْسـنُ الخـالِقيـن",
+               "meaning": "O Allah, to You I prostrate myself and in You I believe. To You I have submitted. My face is prostrated to the One Who created it, fashioned it, and gave it hearing and sight. Blessed is Allah, the Best of creators.",
+               "transliteration": "Allāhumma laka sajadtu\nwa bika āmantu,\nwa laka aslamtu,\nsajada waj’hiya lilladhī khalaqahu, wa ṣawwarahu,\nwa shaqqa sam`ahu wa baṣarahu,\ntabārakallāhu 'aḥsanul-khāliqīn."
+            },
+             {
+                  "number": "45",
+                  "reference": "Abu Dawud 1/230, An-Nasa'i, Ahmad. See also Al-Albani, Sahih Abu Dawud 1/166, see invocation no. 37 above.",
+                  "arabic": "سُبْـحانَ ذي الْجَبَـروت، والمَلَكـوت، والكِبْـرِياء، وَالعَظَمَـةِ.",
+                  "meaning": "Glory is to the master of power, sovereignty, of majesty and greatness.",
+                  "transliteration": "Subḥāna dhi ’l-jabarūti, wa ’l-malakūti, wa ‘l-kibriyā'i, wa ‘l-aẓamati."
+               },
+                {
+                     "number": "46",
+                     "reference": "Muslim 1/350.",
+                     "arabic": "اللّهُـمَّ اغْفِـرْ لي ذَنْـبي كُلَّـه ، دِقَّـهُ وَجِلَّـه ، وَأَوَّلَـهُ وَآخِـرَه ، وَعَلانِيَّتَـهُ وَسِـرَّه",
+                     "meaning": "O Allah, forgive me all my sins, great and small, the first and the last, those that are apparent and those that are hidden.",
+                     "transliteration": "Allāhumma’ghfir lī dhanbī kullahu,\ndiqqahu wa jillahu,\nwa awwalahu wa ākhirahu\nwa `alāniyyatahu wa sirrahu."
+                  },
+                  {
+                        "number": "47",
+                        "reference": "Muslim 1/352.",
+                        "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِرِضـاكَ مِنْ سَخَطِـك ، وَبِمعـافاتِـكَ مِنْ عُقوبَـتِك ، وَأَعـوذُ بِكَ مِنْـك ، لا أُحْصـي ثَنـاءً عَلَـيْك ، أَنْـتَ كَمـا أَثْنَـيْتَ عَلـى نَفْسـِك",
+                        "meaning": "O Allah, I seek protection in Your pleasure from Your anger, and I seek protection in Your forgiveness from Your punishment. I seek protection in You from You. I cannot count Your praises. You are as You have praised Yourself.",
+                        "transliteration": "Allāhumma innī a`ūdhu biriḍāka min sakhaṭika,\nwa bimu`āfātika min `uqūbatika\nwa a`ūdhu bika minka\nlā uḥṣī thanā'an `alayka\nanta kamā athnayta `alā nafsika."
+                     }
+
     ]
   }
 }
