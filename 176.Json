@@ -1,0 +1,23 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "chapter": "Upon breaking fast",
+    "data": [
+      {
+        "number": "176",
+        "reference": "Abu Dawud 2/306 and others. See also Al- Albani, Sahihul-Jami' As-Saghir 4/209.",
+        "arabic": "ذَهَـبَ الظَّمَـأُ، وَابْتَلَّـتِ العُـروق، وَثَبَـتَ الأجْـرُ إِنْ شـاءَ الله",
+        "meaning": "The thirst is gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+        "transliteration": "Dhahabaẓ-ẓama',\nwabtallati ‘l-`urūq,\nwa thabata ‘l-'ajru in shā Allāh."
+      },
+      {
+        "number": "177",
+        "reference": "Ibn Majah 1/557 from a supplication of Abdullah bin 'Amr. Al-Hafidh graded it as good in his checking of An-Nawawi's Kitabul-'Athkdr. See Sharhul- Athkar 4/342.",
+        "arabic": "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ بِرَحْمَـتِكَ الّتي وَسِـعَت كُلَّ شيء، أَنْ تَغْـفِرَ لي",
+        "meaning": "O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me.",
+        "transliteration": "Allāhumma innī as'aluka\nbi raḥmatika ‘l-latī wasi`at kulla shay'\nan taghfira lī."
+      }
+    ]
+  }
+}

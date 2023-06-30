@@ -1,0 +1,65 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "chapter": "After salam",
+    "data": [
+      {
+        "number": "66",
+        "reference": "Muslim 1/414.",
+        "arabic": "أَسْـتَغْفِرُ الله (ثَلاثاً) اللّهُـمَّ أَنْـتَ السَّلامُ وَمِـنْكَ السَّلام تَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام",
+        "meaning": "I seek the forgiveness of Allah (three times). O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.",
+        "transliteration": "Astaghfirullāh\n(three times)\nAllāhumma antas-salām,\nwa minkas-salām,\ntabārakta yā dhal-Jalāli wal-'Ikrām."
+      },
+      {
+        "number": "67",
+        "reference": "Al-Bukhari 1/255, Muslim 1/414.",
+        "arabic": "لا إلهَ إلاّ اللّهُ وحدَهُ لا شريكَ لهُ لهُ المُـلْكُ ولهُ الحَمْد وهوَ على كلّ شَيءٍ قَدير اللّهُـمَّ لا مانِعَ لِما أَعْطَـيْت وَلا مُعْطِـيَ لِما مَنَـعْت وَلا يَنْفَـعُ ذا الجَـدِّ مِنْـكَ الجَـد",
+        "meaning": "None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. O Allah, there is none who can withhold what You give, and none may give what You have withheld, and the might of the mighty person cannot benefit him against You.",
+        "transliteration": "Lā 'ilāha 'illallāh,\nwaḥdahu lā sharīka lah,\nlahu ‘l-mulku wa lahu ‘l-ḥamd,\nwa huwa `alā kulli shay'in qadīr,\nAllāhumma lā māni`a limā 'a`tayt,\nwa lā mu`tiya limā mana`t,\nwa lā yanfa`u dhal-jaddi minkal-jadd."
+      },
+      {
+        "number": "68",
+        "reference": "Muslim 1/415.",
+        "arabic": "لا إلهَ إلاّ اللّه وحدَهُ لا شريكَ لهُ لهُ الملكُ ولهُ الحَمد وهوَ على كلّ شيءٍ قدير لا حَـوْلَ وَلا قـوَّةَ إِلاّ بِاللهِ لا إلهَ إلاّ اللّـه وَلا نَعْـبُـدُ إِلاّ إيّـاه لَهُ النِّعْـمَةُ وَلَهُ الفَضْل وَلَهُ الثَّـناءُ الحَـسَن لا إلهَ إلاّ اللّهُ مخْلِصـينَ لَـهُ الدِّينَ وَلَوْ كَـرِهَ الكـافِرون",
+        "meaning": "None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things. There is no power and no might except by Allah. None has the right to be worshipped but Allah, and we do not worship any other besides Him. His is grace, and His is bounty, and to Him belongs the most excellent praise. None has the right to be worshipped but Allah. (We are) sincere in making our religious devotion to Him, even though the disbelievers may dislike it.",
+        "transliteration": "Lā 'ilāha 'illallāh,\nwaḥdahu lā sharīka lah,\nlahul-mulku, wa lahul-ḥamd,\nwa huwa `alā kulli shay'in qadīr.\nLā ḥawla wa lā quwwata 'illā billāh,\nlā 'ilāha 'illallāh,\nwa lā na`budu 'illā 'iyyāh,\nlahun-ni`matu wa lahul-faḍl,\nwa lahuth-thanā'ul-ḥasan,\nlā 'ilāha 'illallāh,\nmukhliṣīna lahud-dīn,\nwa law karihal-kāfirūn."
+      },
+      {
+        "number": "69",
+        "reference": "Muslim 1/418, Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea.",
+        "arabic": "سُـبْحانَ اللهِ والحَمْـدُ لله واللهُ أكْـبَر (ثلاثاً وثلاثين) لا إلهَ إلاّ اللّهُ وَحْـدَهُ لا شريكَ لهُ لهُ الملكُ ولهُ الحَمْد وهُوَ على كُلّ شَيءٍ قَـدير",
+        "meaning": "Glory is to Allah, and praise is to Allah, and Allah is the Most Great. (each said thirty-three times) None has the right to be worshiped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things.",
+        "transliteration": "Subḥānallāh,\nwalḥamdu lillāh,\nwallāhu 'akbar,\n(each said thirty-three times)\nLā 'ilāha 'illallāh\nwaḥdahu lā sharīka lahu,\nlahul-mulku wa lahul-ḥamd\nwa huwā`lā kulli shay'in qadīr."
+      },
+      {
+        "number": "70",
+        "reference": "Abu Dawud 2/86, An-Nasa'i 3/68. See also Al-Albani, Sahih At-Tirmidhi 2/8.",
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ {قُلْ هُوَ اللَّهُ أَحَدٌ* اللَّهُ الصَّمَدُ* لَمْ يَلِدْ وَلَمْ يُولَدْ* وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ}\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ {قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ* مِن شَرِّ مَا خَلَقَ* وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ* وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ* وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ}\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ {قُلْ أَعُوذُ بِرَبِّ النَّاسِ* مَلِكِ النَّاسِ* إِلَهِ النَّاسِ* مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ* الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ* مِنَ الْجِنَّةِ وَالنَّاسِ} بَعْدَ كُلِّ صَلاَةٍ.",
+        "meaning": "(Surahs 112 al-Ikhlas, 113 al-Falaq, and 114 an-Nas) These Surahs should be recited in Arabic after each prayer. After the Maghrib and Fajr prayers, they should be recited three times each. With the Name of Allah, the Most Gracious, the Most Merciful. Say: He is Allah (the) One. The Self-Sufficient Master, Whom all creatures need, He begets not nor was He begotten, and there is none equal to Him. With the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge with (Allah) the Lord of the daybreak, from the evil of what He has created, and from the evil of the darkening (night) as it comes with its darkness, and from the evil of those who practice witchcraft when they blow in the knots, and from the evil of the envier when he envies. With the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge with (Allah) the Lord of mankind, the King of mankind, the God of mankind, from the evil of the whisperer who withdraws, who whispers in the breasts of mankind, of jinns and men.",
+        "transliteration": "Bismillāhir-Raḥmānir-Raḥīm.\nQul huwallāhu aḥad.\nAllāhuṣ-ṣamad.\nLam yalid wa lam yūlad.\nWa lam yakun lahu kufuwan aḥad.\nBismillāhir-Raḥmānir-Raḥīm.\nQul a`ūdhu birabbil-falaq.\nMin sharri mā khalaq.\nWa min sharri ghāsiqin idhā waqab.\nWa min sharrin-naffāthāti fil-`uqad.\nWa min sharri ḥāsidin idhā ḥasad.\nBismillāhir-Raḥmānir-Raḥīm.\nQul a`ūdhu birabbin-nās.\nMalikin-nās. 'Ilāhin-nās.\nMin sharri ‘l-waswāsil-khannās.\nAlladhī yuwaswisu fī ṣudūrin-nās.\nMinal-jinnati wannās."
+      },
+      {
+        "number": "71",
+        "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah (Hadith no. 100), also Ibn As-Sunni (no. 121). See also Al-Albani, Sahihul-Jami' As-Saghir 5/339 and Silsilatul-Ahadith As-Sahihah 2/697 (no. 972).",
+        "arabic": "﴿اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾ عقب كل صلاة",
+        "meaning": "Allah! There is none worthy of worship but He, the Ever-Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. (Recite in Arabic after each prayer.)",
+        "transliteration": "Allāhu lā ilāha illā huwa ‘l-Ḥayyul-Qayyūm,\nlā ta'khudhuhu sinatun wa lā nawm,\nlahu mā fis-samāwāti wa mā fil-ardh,\nman dhal-ladhī yashfa`u `indahu illā bi'idhnih,\nya`lamu mā bayna 'aydīhim wa mā khalfahum,\nwa lā yuḥītūna bishay'im-min `ilmihi illā bimā shā'a,\nwasi `a kursiyyuhus-samāwāti wal-ardh,\nwa lā ya'ūduhu hifẓuhumā,\nwa huwal-`Aliyyu ‘l-`Aẓīm."
+      },
+      {
+        "number": "72",
+        "reference": "At-Tirmidhi 5/515, Ahmad 4/227. See its checking in Ibn Al-Qayyim Al-Jawziyyah's Zddul-Ma'ad 1/300.",
+        "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ)",
+        "meaning": "(Recite ten times in Arabic after the Maghrib and Fajr prayers.) None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things.",
+        "transliteration": "Lā ilāha illallāh\nwaḥdahu lā sharīka lah,\nlahu‘l-mulku wa lahu‘l-ḥamd\nyuḥyī wa yumīt\nwa huwa `alā kulli shay'in qadīr."
+      },
+      {
+        "number": "73",
+        "reference": "Ibn Majah and others. See Sahih Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً وَرِزْقاً طَيِّباً وَعَمَلاً مُتَقَبَّلاً (بَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ)",
+        "meaning": "O Allah, I ask You for knowledge which is beneficial, and sustenance which is good, and deeds which are acceptable.\"",
+        "transliteration": "Allāhumma innī as'aluka `ilman nāfi`an,\nwa rizqan ṭayyiban, wa `amalam-mutaqabbala.\n[to be said after giving salam for the Fajr prayer.]"
+      }
+    ]
+  }
+}

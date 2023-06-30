@@ -1,0 +1,23 @@
+{
+  "status": "Success",
+  "details": {
+    "name": "Hisn al-Muslim",
+    "chapter": "At times of amazement and that which delights",
+    "data": [
+      {
+        "number": "240",
+        "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 1/210, 390, 414 and Muslim 4/1857.",
+        "arabic": "سُـبْحانَ الله",
+        "meaning": "(Glory is to Allah).",
+        "transliteration": "Subḥānallāh!"
+      },
+      {
+        "number": "241",
+        "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/441. See also Al-Albani, Sahih At-Tirmidhi 2/103, 235, Ahmad 5/218.",
+        "arabic": "اللهُ أَكْـبَر",
+        "meaning": "Allāhu Akbar!\n(Allah is the Most Great)",
+        "transliteration": ""
+      }
+    ]
+  }
+}
