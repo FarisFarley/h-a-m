@@ -2,6 +2,7 @@
   "status": "Success",
   "details": {
     "name": "Hisn al-Muslim",
+    "chapter": "Seeking forgiveness and repentance",
     "data": [
 {
       "number": "248",
@@ -9,7 +10,42 @@
       "arabic": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: \"وَاللَّهِ إِنِّي لأَسْتَغفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةٍ\"",
       "meaning": "Allah's Messenger (ﷺ) said: \"By Allah, I seek the forgiveness of Allah, and repent to Him more than seventy times in a day.",
       "transliteration": ""
-   }
+   },
+   {
+         "number": "249",
+         "reference": "Muslim 4/2076.",
+         "arabic": "وَقَالَ صلى الله عليه وسلم: (يَا أَيُّهَا النَّاسُ تُوبُوا إِلَى اللَّهِ فَإِنِّي أَتُوبُ فِي الْيَوْمِ إِلَيْهِ مِائَةَ مَرَّةٍ)",
+         "meaning": "Allah's Messenger (ﷺ) said: \"O people, repent to Allah, for I verily repent to Him one hundred times a day.",
+         "transliteration": ""
+      },
+      {
+            "number": "250",
+            "reference": "Abu Dawud 2/85, At-Tirmidhi 5/569, and Al-Hakim who declared it authentic and Ath-Thahabi agreed with him 1/511. Al-Albani graded it authentic in Sahih At-Tirmidhi 3/182. See also Jami'ul-'Usool li-'Ahdaith Ar-Rasool 4/ 389-90 checked by Al-Arna'ut.",
+            "arabic": "وَقَالَ صلى الله عليه وسلم: مَنْ قَالَ (أَسْتَغْفِرُ اللَّهَ الْعَظيمَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ القَيّوُمُ وَأَتُوبُ إِلَيهِ)، غَفَرَ اللَّهُ لَهُ وَإِنْ كَانَ فَرَّ مِنَ الزَّحْفِ.",
+            "meaning": "Allah's Messenger (ﷺ) said: Whoever says:\nAstaghfirullāha ‘l-'Aẓīm\nalladhi lā ilāha illā huwa ‘l-ḥayyul-Qayyūm\nwa atūbu ilayh.\nAllah's Messenger (ﷺ) said: Whoever says: I seek the forgiveness of Allah the Mighty, Whom there is none worthy of worship except Him, the Living, the Eternal, and I repent to Him, Allah will forgive him even if he has deserted the army's ranks.",
+            "transliteration": ""
+         },
+         {
+               "number": "251",
+               "reference": "At-Tirmidhi, An-Nasa'i 1/279 and Al-Hakim. See also Al-Albani, Sahih At-Tirmidhi 3/183, and Jdmi'ul-'Usool with Al-Arna'ut's checking 4/144.",
+               "arabic": "وَقَالَ صلى الله عليه وسلم: أَقْرَبُ مَا يَكُونُ الرَّبُّ مِنَ الْعَبْدِ فِي جَوْفِ اللَّيْلِ الآخِرِ فَإِنِ اسْتَطَعْتَ أَنْ تَكُونَ مِمَّنْ يَذْكُرُ اللَّهَ فِي تِلْكَ السَّاعَةِ فَكُنْ",
+               "meaning": "Allah's Messenger (ﷺ) said: \"The closest that the Lord comes to the slave is in the last portion of the night. So, if you are able to be among those who remember Allah in this hour, then be among them.\"",
+               "transliteration": ""
+            },
+             {
+                  "number": "252",
+                  "reference": "Muslim 1/350.",
+                  "arabic": ".وَقَالَ صلى الله عليه وسلم: أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ فَأَكثِرُوا الدُّعَاءَ.",
+                  "meaning": "Allah's Messenger (ﷺ) said: \"The closest that the slave comes to his Lord is when he is prostrating, so invoke Allah much (in prostration).\"",
+                  "transliteration": ""
+               },
+               {
+                     "number": "253",
+                     "reference": "Muslim 4/2075. Ibn 'Athir explains that the Prophet (ﷺ) was always vigilant in his remembrance and drawing near to Allah, and if he forgot to do any of what he normally did from time to time, or it slipped his mind, he felt as if he had wronged himself and so he would begin to seek the forgiveness of Allah. See Jami'ul-'Usool 4/386.",
+                     "arabic": ".وَقَالَ صلى الله عليه وسلم: إِنَّهُ لَيُغَانُ عَلَى قَلْبِي وَإِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ.",
+                     "meaning": "Allah's Messenger (ﷺ) said: \"It is a heavy thing for my heart if I do not seek Allah's forgiveness a hundred times a day.\"",
+                     "transliteration": ""
+                  }
     ]
   }
 }
